@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e69c2bd3-64e0-469b-a1c6-d72a6b771737" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YQ893d5gwW4AZh1YMQzRYoQ3Mj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Junfeng Ou\PycharmProjects\foodservice\mfscrm\crm\templates\crm" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e69c2bd3-64e0-469b-a1c6-d72a6b771737" name="Default Changelist" comment="" />
+      <created>1582863302154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582863302154</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1219" y="262" key="FileChooserDialogImpl" timestamp="1582945211169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1219" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582945211169" />
+    <state x="81" y="0" width="718" height="1019" key="dock-window-1" timestamp="1583024576945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="81" y="0" width="718" height="1019" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1583024576945" />
+    <state x="128" y="90" width="718" height="722" key="dock-window-2" timestamp="1583025780858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="128" y="90" width="718" height="722" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1583025780858" />
+    <state x="156" y="0" width="718" height="718" key="dock-window-3" timestamp="1583017912659">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="156" y="0" width="718" height="718" key="dock-window-3/0.0.1920.1040@0.0.1920.1040" timestamp="1583017912659" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mfscrm/crm/views.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
